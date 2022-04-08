@@ -9,7 +9,7 @@ heat conduction equation. This is the functional equivalent of a *Hello World* a
 HPC/CSE numerical programmers.
 
 In general, heat [conduction](https://en.wikipedia.org/wiki/Thermal_conduction) is governed
-by the partial differential (PDE)...
+by the partial differential equation (PDE)...
 
 | | |
 |:---:|:---:|
